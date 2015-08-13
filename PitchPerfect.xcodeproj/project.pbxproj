@@ -15,7 +15,6 @@
 		222DB3B21ADBE5B600D9D1FA /* PitchPerfectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 222DB3B11ADBE5B600D9D1FA /* PitchPerfectTests.swift */; };
 		223071B71B7C45180019327B /* RecordedAudio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 223071B61B7C45180019327B /* RecordedAudio.swift */; };
 		22A3E8F31AF10DDC007C54B8 /* PlaySoundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22A3E8F21AF10DDC007C54B8 /* PlaySoundsViewController.swift */; };
-		22F2E4681AFFE38A0011CDFC /* movie_quote.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 22F2E4671AFFE38A0011CDFC /* movie_quote.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,7 +40,6 @@
 		222DB3B11ADBE5B600D9D1FA /* PitchPerfectTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PitchPerfectTests.swift; sourceTree = "<group>"; };
 		223071B61B7C45180019327B /* RecordedAudio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecordedAudio.swift; sourceTree = "<group>"; };
 		22A3E8F21AF10DDC007C54B8 /* PlaySoundsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaySoundsViewController.swift; sourceTree = "<group>"; };
-		22F2E4671AFFE38A0011CDFC /* movie_quote.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = movie_quote.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,7 +81,6 @@
 		222DB3981ADBE5B500D9D1FA /* PitchPerfect */ = {
 			isa = PBXGroup;
 			children = (
-				22F2E4671AFFE38A0011CDFC /* movie_quote.mp3 */,
 				222DB39B1ADBE5B500D9D1FA /* AppDelegate.swift */,
 				222DB39D1ADBE5B500D9D1FA /* RecordSoundsViewController.swift */,
 				223071B61B7C45180019327B /* RecordedAudio.swift */,
@@ -203,7 +200,6 @@
 			files = (
 				222DB3A11ADBE5B500D9D1FA /* Main.storyboard in Resources */,
 				222DB3A61ADBE5B500D9D1FA /* LaunchScreen.xib in Resources */,
-				22F2E4681AFFE38A0011CDFC /* movie_quote.mp3 in Resources */,
 				222DB3A31ADBE5B500D9D1FA /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
