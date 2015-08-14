@@ -49,9 +49,6 @@ class RecordSoundsViewController: UIViewController, AVAudioRecorderDelegate {
             audioRecorder.prepareToRecord()
             audioRecorder.record()
         }
-        
-        // TODO: Record the user's voice
-
     }
     
     func audioRecorderDidFinishRecording(recorder: AVAudioRecorder!, successfully flag: Bool) {

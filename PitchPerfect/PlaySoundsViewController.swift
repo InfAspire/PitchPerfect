@@ -172,5 +172,4 @@ class PlaySoundsViewController: UIViewController, AVAudioPlayerDelegate {
             closure!(cancel: true)
         }
     }
-
 }
